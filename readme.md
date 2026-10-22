@@ -35,7 +35,7 @@ ant test
 
 ## 📁 Repository Structure
 
-* `src/` - Contains the Java source files (`Main`, `TicTacToe`, `Board`, `Player`, `AutoPlayer`).
-* `test/` - Contains the JUnit test files (`TicTacToeTest`, `AutoPlayerTest`).
+* `src/tdd/` - Contains the Java source files (`Main`, `TicTacToe`, `Board`, `Player`, `AutoPlayer`).
+* `test/tdd/` - Contains the JUnit test files (`TicTacToeTest`, `AutoPlayerTest`).
 * `build.xml` - Configuration file for Apache Ant.
-* `UML/` - Contains the Class and Sequence diagrams (PDF).
+* `UML/` - Contains the Class and Sequence diagrams.
